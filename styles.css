@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  boz-sizing: border-content
+}
+
+a,li, button {
+  list-styles: none;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+body {
+  position: relative;
+}
+
